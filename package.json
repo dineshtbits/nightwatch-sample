@@ -1,0 +1,13 @@
+{
+    "name": "Nightwatch-Demo",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "nightwatch"
+    },
+    "dependencies": {
+        "chromedriver": "^74.0.0",
+        "geckodriver": "^1.16.2",
+        "nightwatch": "^1.1.11",
+        "selenium-server": "^3.141.59"
+    }
+}
